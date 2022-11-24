@@ -131,7 +131,8 @@ i{
     /* border: 1px solid black; */
     /* margin: 12px 0px; */
     height: 450px;
-    width: 20%;
+    width: 20.2%;
+    box-sizing: border-box;
 }
 .item-card img{
     /* border: 1px solid firebrick; */
@@ -151,6 +152,10 @@ i{
     color: white;
     background-color: black;
 }
+.sale-div{
+    /* border: 1px solid green; */
+    height: 25px;
+}
 .sale{
     /* border: 1px solid red; */
     padding: 0px 8px;
@@ -162,7 +167,7 @@ i{
     text-align: center;
     font-size: 15px;
     position:relative;
-    /* top: 20px; */
+    top: 0px;
 }
 .category-two{
     /* border: 1px solid black; */
@@ -191,7 +196,7 @@ i{
     cursor: pointer;
     /* border: 1px solid black; */
 }
-.clothing, .Home-app{
+.item-section{
     /* border: 1px solid black; */
     /* height: 200px; */
     margin: 80px 45px;
