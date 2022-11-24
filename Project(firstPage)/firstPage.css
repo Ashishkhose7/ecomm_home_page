@@ -130,8 +130,8 @@ i{
 .item-card{
     /* border: 1px solid black; */
     /* margin: 12px 0px; */
-    height: 450px;
-    width: 20.2%;
+    height: 440px;
+    width: 20%;
     box-sizing: border-box;
 }
 .item-card img{
